@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Eydean Inc.</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Eydean Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>/services/artificial-intelligence/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/artificial-intelligence/</guid>
+      <description>Intelligently crafted AIaaS to step up your game. Eydean is seeking to develop a world-leading AI as a Service solution and sound ecosystem that creates a niche market and become an important partner in the value chain of a global intelligent system, which incorporate the hardware and software collaboration to promote AI technology among industries with test fields, regulations, and data-sharing environment.
+AI Talent Program We aim at cultivating 1,000 elites in intelligent technologies, training 10,000 pioneers in intelligent applications, and attracting more global AI talents.</description>
+    </item>
+    
+    <item>
+      <title>Skunkworks Dojo</title>
+      <link>/services/skunkworks-dojo/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/skunkworks-dojo/</guid>
+      <description> Open Technology projects, initiatives and coding programs. Eydean runs Science Hack, software and hardware projects.
+Internal Projects:  Style Guide for all Programming Languages
+ Cultural Deck
+  </description>
+    </item>
+    
+    <item>
+      <title>Community Outreach</title>
+      <link>/services/community-outreach/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/community-outreach/</guid>
+      <description>Eydean&amp;rsquo;s Community Outreach is the initiative started with the Eydean Open Source Community which is an organization developing software applications for social change using a wide-range of technologies. Projects range from Free and Open Source software, to design, graphics and hardware. We frequently organize and participate in conferences, meetups and code camps. The annual Eydean OpenTechSummit is one of the largest gatherings of developers in Asia and took place in Kathmandu and Pokhara.</description>
+    </item>
+    
+    <item>
+      <title>Idea Incubator</title>
+      <link>/services/idea-incubator/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/idea-incubator/</guid>
+      <description>We intend to create a research based documentation as a complete idea set for the initiation and continuity of any business firm or just plan. The whole package of services is categorized into four major fields of a successful business organization and management.
+1. Research as a service This part focuses on analysis of market, competitors(national and international), feasibility of the product the company intends on producing and the projection of company status for a few years based on the budget and time the client can give to their business.</description>
+    </item>
+    
+    <item>
+      <title>Sustainability Labs</title>
+      <link>/services/sustainability-labs/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>/services/sustainability-labs/</guid>
+      <description>At The Sustainability Laboratory, we work to address urgent sustainability challenges facing the planet by creating and demonstrating effective tools for catalyzing radical change
+A RIGOROUS DEFINITION OF SUSTAINABILITY AND A DERIVED SET OF CORE SUSTAINABILITY PRINCIPLES Providing an essential roadmap for developing model sustainability practices.
+A PERSPECTIVE ON EVOLUTION AND A THEORY OF CHANGE Providing a blueprint for addressing complexity and managing significant change processes.
+A SYSTEM-ORIENTED DESIGN STRATEGY Providing a comprehensive methodology for guiding project planning and facilitating development initiatives.</description>
+    </item>
+    
+    <item>
+      <title>Business Intelligence</title>
+      <link>/services/business-intelligence/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/business-intelligence/</guid>
+      <description>Eydean is the only enterprise business intelligence platform that connects together the entire organization through a shared common analytical fabric. Eydean&amp;rsquo;s prominent BI delivers the speed, self-service, and agility front-line business workers demand, and the scale, security, and control to meet rigorous corporate data standards. Eydean delivers all of this and much more with low TCO via public or private cloud configurations.
+Financial Accounting Whether you have an accountant in your internal team OR you do it yourself OR you have chosen to outsourced it, the financial accounting process is almost always at the center any business management system (aka an ERP system).</description>
+    </item>
+    
+  </channel>
+</rss>
