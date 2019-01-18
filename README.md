@@ -18,7 +18,8 @@ About eydean
 
 ![eydean](https://eydean.com/images/logo.svg)
 
-eydean.com is maintained and funded by Eydean Inc. The names and logos for eydean are trademarks of Eydean Inc.
+Eydean.com is maintained and funded by Eydean Inc. 
+The names and logos for eydean are trademarks of Eydean Inc.
 
 We love open source software!
 See [our other projects][community] or
