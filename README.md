@@ -16,7 +16,7 @@ eydean.com is a Copyright © 2017-2019 of Eydean. It is free software, and may b
 About eydean
 ----------------
 
-![eydean](https://eydean.com/images/logo.svg)
+![eydean](https://eydean.com/images/logo.svg){:height="100px" width="100px"}
 
 Eydean.com is maintained and funded by Eydean Inc. 
 The names and logos for eydean are trademarks of Eydean Inc.
