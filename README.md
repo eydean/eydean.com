@@ -5,7 +5,7 @@ This is the Repository consisting Eydean's website, hosted at https://eydean.com
 Contributing
 ------------
 
-Please see [CONTRIBUTING.md](https://gitlab.com/eydean/eydean.com/blob/master/CONTRIBUTING.md). Many improvements and bugfixes were contributed by the [open source
+Please see [CONTRIBUTING.md](https://github.com/eydean/eydean.com/blob/master/CONTRIBUTING.md). Many improvements and bugfixes were contributed by the [open source
 community](https://github.com/eydean/eydean.com/graphs/contributors).
 
 License
